@@ -1,0 +1,14 @@
+Manage duplicate files
+- find all files from a folder
+- calculate small crcs - for first 4k for example
+- serialize structure
+- calculate trees of informations regarding filters - names, size, date, crc
+
+file object 
+ - name
+ - path
+ - file infos - date time  - for all operations, size
+ - operations like compare with (file &)
+ - serialization
+
+
